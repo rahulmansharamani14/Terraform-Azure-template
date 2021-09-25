@@ -1,4 +1,8 @@
-### ARM/ Terraform approach:
+## Terraform-Azure Template
+
+Deploy resources to Azure with Terraform
+
+### Resources:
 
 1. Create a virtual network
 2. Create a subnet
